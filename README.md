@@ -1,1 +1,3 @@
-# Sinhala-Stopword-list
+# Sinhala Stopword list
+
+Line Count - 193
